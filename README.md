@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project that uses the html learned so far and add to it using links, images and lists.
