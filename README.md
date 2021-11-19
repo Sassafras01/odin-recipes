@@ -1,1 +1,1 @@
-This is a project that uses the html learned so far and adds to it by using links, images and lists.
+This project takes the html learned so far and adds to it by using links, images and lists.
